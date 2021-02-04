@@ -11,6 +11,7 @@ h1 {
         }
         body {
             background-image: url("img/Plini-Impulse-Voices-Art.jpg");
+			text-align:center;
         }
         div {
             background-color: lightgrey;
