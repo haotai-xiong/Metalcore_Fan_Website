@@ -38,6 +38,7 @@ li a {
     background-color: lightcyan;
 }
 .audio {
+    float: right;
     text-align: center;
     position: fixed;
 }
