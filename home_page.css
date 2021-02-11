@@ -28,7 +28,6 @@ ul {
     margin:0;
     padding-left: 0;
     float:left;
-    overflow: auto;
     position: fixed;
 }
 li a {
@@ -39,4 +38,5 @@ li a {
 }
 .audio {
     position: fixed;
+    float:initial;
 }
