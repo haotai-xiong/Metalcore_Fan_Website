@@ -37,8 +37,6 @@ li a {
     color:black;
     background-color: lightcyan;
 }
-audio {
-    float:left;
-    overflow: hidden;
+.audio {
     position: fixed;
 }
