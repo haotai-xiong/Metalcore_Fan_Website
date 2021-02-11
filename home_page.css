@@ -29,6 +29,7 @@ ul {
     padding-left: 0;
     float:left;
     position: fixed;
+    overflow: hidden;
 }
 li a {
     display: inline-block;
@@ -37,6 +38,6 @@ li a {
     background-color: lightcyan;
 }
 .audio {
+    text-align: center;
     position: fixed;
-    float:right;
 }
