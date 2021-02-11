@@ -29,6 +29,7 @@ ul {
     padding-left: 0;
     float:left;
     overflow: hidden;
+    position: fixed;
 }
 li a {
     display: inline-block;
