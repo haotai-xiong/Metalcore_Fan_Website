@@ -11,6 +11,8 @@ table {
 }
 body {
     background-image: url("img/Plini-Impulse-Voices-Art.jpg");
+}
+h1 {
     text-align: center;
 }
 div {
@@ -21,13 +23,15 @@ div {
     margin: auto;
     color:black;
     font-size:15px;
+    text-align: center;
 }
 ul {
-    list-style:none;
+    list-style-type: none;
     margin:0;
     padding-left: 0;
+    float:left;
 }
-li {
+li a {
     display: inline-block;
     padding: 15px;
     color:black;
