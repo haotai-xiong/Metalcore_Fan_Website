@@ -25,11 +25,12 @@ div {
 }
 ul {
     list-style-type: none;
-    margin:0;
+    margin:auto;
     padding-left: 0;
     float:left;
     position: fixed;
     overflow: hidden;
+    top:80px;
 }
 li a {
     display: inline-block;
@@ -39,6 +40,5 @@ li a {
 }
 .audio {
     float: right;
-    text-align: center;
-    position: fixed;
+    position:fixed;
 }
