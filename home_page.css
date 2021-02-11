@@ -13,7 +13,7 @@ table {
 body {
     background-image: url("img/Plini-Impulse-Voices-Art.jpg");
 }
-div {
+.words {
     background-color: lightgrey;
     width: 300px;
     border: 15px solid green;
