@@ -38,6 +38,5 @@ li a {
 }
 .audio {
     position: relative;
-    float:initial;
-
+    float:right;
 }
