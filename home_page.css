@@ -37,6 +37,6 @@ li a {
     background-color: lightcyan;
 }
 .audio {
-    position: fixed;
+    position: :relative;
     float:initial;
 }
