@@ -30,7 +30,7 @@ ul {
     float:left;
     position: fixed;
     overflow: hidden;
-    top:80px;
+    top: 100px;
 }
 li a {
     display: inline-block;
