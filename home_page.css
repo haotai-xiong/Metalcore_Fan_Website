@@ -1,3 +1,8 @@
+.introofmetal {
+    background-color: black;
+    width: 600px;
+    text-align: center;
+}
 h1 {
     color:whitesmoke;
     text-shadow: 2px 2px 20px blueviolet;
@@ -41,9 +46,4 @@ li a {
 .audio {
     float: right;
     position:fixed;
-}
-.introofmetal {
-    background-color: black;
-    width: 600px;
-    text-align: center;
 }
